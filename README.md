@@ -3,4 +3,4 @@
 3. Ввести в консоль команду ./mvnw clean package
 3. Ввести в консоль команду docker build -t transfer3.0 .
 4. Ввести в консоль команду docker-compose up -d
-5. Можно заходить на развёрнутый удалённо Front по адрусу https://serp-ya.github.io и тестировать.
+5. Можно заходить на развёрнутый удалённо Front по адресу https://serp-ya.github.io и тестировать.
