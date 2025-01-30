@@ -1,0 +1,6 @@
+version: '2'
+services:
+  transfer:
+    image: 'transfer3.0'
+    ports:
+      - 5500:8085
